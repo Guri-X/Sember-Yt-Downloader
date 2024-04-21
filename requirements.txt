@@ -1,0 +1,13 @@
+asgiref==3.8.1
+beautifulsoup4==4.12.3
+Django==4.2.11
+greenlet==3.0.3
+lz4==4.3.3
+PySide2==5.15.1
+python-decouple==3.8
+shiboken2==5.15.1
+soupsieve==2.5
+SQLAlchemy==2.0.29
+sqlparse==0.5.0
+typing-extensions==4.11.0
+youtube-dl==2021.12.17
